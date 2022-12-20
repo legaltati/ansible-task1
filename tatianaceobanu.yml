@@ -30,4 +30,4 @@
     copy: 
       src: /tmp/darkness/
       dest: /var/www/html
-      remote_src: yes     
+      remote_src: yes 
